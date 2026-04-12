@@ -49,7 +49,7 @@ Instead of a traditional resume, this website turns a portfolio into an **intera
 
 ## 🌐 Live Demo
 
-👉 https://your-project.vercel.app
+👉 https://vibe-a-thon-theta.vercel.app
 
 ---
 
